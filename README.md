@@ -111,6 +111,3 @@ he/she can only read it.
 
 
 
-## Created By
-- [Amit Srivastava](https://github.com/cynicphoenix)
-- [Aman Pandey](https://github.com/pandey2000)
