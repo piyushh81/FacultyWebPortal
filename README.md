@@ -85,18 +85,18 @@ he/she can only read it.
 - Make sure you commit the transactions!!
 
 ## ER Diagram 
-![Alt Text](https://raw.githubusercontent.com/cynicphoenix/Faculty-Web-Portal/master/ER%20Diagram%20main.png)
+![Alt Text](https://raw.githubusercontent.com/piyushh81/FacultyWebPortal/master/ER%20Diagram%20main.png)
 
 ## Video Demonstration
 
 #### User Personalized and About Portal :
-[![IMAGE ALT TEXT HERE](https://raw.githubusercontent.com/cynicphoenix/Faculty-Web-Portal/master/Screenshots/user.png)](https://www.youtube.com/watch?v=HSSV2hhaO9A)
+[![IMAGE ALT TEXT HERE](https://raw.githubusercontent.com/piyushh81/FacultyWebPortal/master/Screenshots/user.png)](https://www.youtube.com/watch?v=HSSV2hhaO9A)
 
 #### Admin Portal :
-[![IMAGE ALT TEXT HERE](https://raw.githubusercontent.com/cynicphoenix/Faculty-Web-Portal/master/Screenshots/admin.png)](https://www.youtube.com/watch?v=Un3ZG3vNMJw)
+[![IMAGE ALT TEXT HERE](https://raw.githubusercontent.com/piyushh81/FacultyWebPortal/master/Screenshots/admin.png)](https://www.youtube.com/watch?v=Un3ZG3vNMJw)
 
 #### Faculty Portal and Application :
-[![IMAGE ALT TEXT HERE](https://raw.githubusercontent.com/cynicphoenix/Faculty-Web-Portal/master/Screenshots/portal.png)](https://www.youtube.com/watch?v=7WlAzyHb2aw)
+[![IMAGE ALT TEXT HERE](https://raw.githubusercontent.com/piyushh81/FacultyWebPortal/master/Screenshots/portal.png)](https://www.youtube.com/watch?v=7WlAzyHb2aw)
 
 
 ## Requirements
